@@ -8,4 +8,5 @@ El siguiente es un demo de la interfaz a la que se debe llegar (funcionalidades 
 
 Solución:
 
-https://github.com/MisionTIC4b/f_shopping_app
+Se adjunta video solucion https://youtu.be/ZN8nKCStR3k
+enlace git hub  https://github.com/dxmarquez/shoppingcar_grupo1_NRC2290
